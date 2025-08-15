@@ -1,4 +1,4 @@
-## lá, sou Júlia!
+## Olá, sou Júlia!
 
 -  Desenvolvedora Backend.
 -  Programo em: Python e  C ++ 
